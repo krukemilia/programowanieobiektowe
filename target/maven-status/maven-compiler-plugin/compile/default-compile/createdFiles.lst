@@ -1,0 +1,10 @@
+com/capgemini/programowanie/obiektowe/Client.class
+com/capgemini/programowanie/obiektowe/ClientNotFoundException.class
+com/capgemini/programowanie/obiektowe/Clients.class
+com/capgemini/programowanie/obiektowe/ClientManager.class
+com/capgemini/programowanie/obiektowe/SupportedMetalType.class
+com/capgemini/programowanie/obiektowe/FullWarehouseException.class
+com/capgemini/programowanie/obiektowe/Client$FullWarehouseException.class
+com/capgemini/programowanie/obiektowe/WarehouseManager.class
+com/capgemini/programowanie/obiektowe/ProhibitedMetalTypeException.class
+com/capgemini/programowanie/obiektowe/Warehouse.class
